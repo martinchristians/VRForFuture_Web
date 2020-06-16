@@ -1,0 +1,19 @@
+<section id="service">
+      <div class="container">
+        <div class="section-title">
+            <h2>Our Vision</h2>
+            <p>“We want to create a VR game by exploring and experimenting with VR technology. Our game will present a playful (survival) hunting experience in an environment with climbing and parkouring features. Our mission is to make people experience the possibilities of virtual reality.”</p>
+        </div>
+        <div class="row">
+            {% for service in site.data.icons %}
+                <div class="col-sm-6 col-md-3">
+                    <div class="service-item">
+                        <i class="{{ service.icon }}"></i>
+                        <h4>{{ service.title }}</h4>
+                        <p>{{ service.content }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+  </div>
+</section>

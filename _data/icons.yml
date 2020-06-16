@@ -1,0 +1,15 @@
+- icon: "ion-compass"
+  title: "Fast"
+  content: "good performance"
+  
+- icon: "ion-image"
+  title: "Designable"
+  content: "low poly design with beautiful scenery"
+  
+- icon: "ion-bug"
+  title: "Clean"
+  content: "clean code; no worry of overload"
+  
+- icon: "ion-earth"
+  title: "Open Source"
+  content: "open for more improvement"
