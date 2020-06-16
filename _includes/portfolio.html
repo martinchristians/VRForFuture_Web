@@ -3,15 +3,9 @@
         <div class="row">
           <div class="col-md-12">
             <div class="block">
-              <div class="portfolio-menu">
-                <ul>
-                    <li class="filter" data-filter="all">Everything</li>
-                    {% assign filters = site.data.projects | group_by: 'category' %}
-                    {% for filter in filters %}
-                    <li class="filter" data-filter=".{{ filter.name }}">{{ filter.name }}</li>
-                    {% endfor %}
-                </ul>
-              </div>
+
+              <h2>Portfolio</h2>
+
               <div class="portfolio-contant">
                 <ul id="portfolio-contant-active">
 
@@ -35,13 +29,12 @@
           </div>
         </div>
     </div>
+
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
                     <div class="section-title">
-                        <h2>DEMO GAMES</h2>
-
                     <table>
                         <tr>
                             <td>
@@ -51,7 +44,7 @@
                                 </video>
                             </td>
                             <td>
-                                <h3>Hunting</h3>
+                                <h3>Menu</h3>
                                 <video controls>
                                     <source src="img/portfolio/videotry.mp4" type="video/mp4">
                                 </video>
@@ -59,13 +52,13 @@
                         </tr>
                         <tr>
                             <td>
-                                <h3>Climbing</h3>
+                                <h3>Menu</h3>
                                 <video controls>
                                     <source src="img/portfolio/videotry.mp4" type="video/mp4">
                                 </video>
                             </td>
                             <td>
-                                <h3>Quest</h3>
+                                <h3>Menu</h3>
                                 <video controls>
                                     <source src="img/portfolio/videotry.mp4" type="video/mp4">
                                 </video>
