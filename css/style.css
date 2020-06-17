@@ -103,7 +103,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #home-slider:before {
   content: "";
-  position: absolute;
+  position: inherit;
   left: 0;
   top: 0;
   bottom: 0;
@@ -407,13 +407,12 @@ font header .navbar-default .navbar-nav li a:hover {
   height: auto;
   overflow: hidden;
   margin: 6px;
-  position: relative;
 }
 #preview .block .preview-contant ul li:hover .overly {
   opacity: 1;
 }
 #preview .block .preview-contant ul li:hover .position-center {
-  position: absolute;
+  
   top: 50%;
   -webkit-transform: translate(0%, -50%);
   -moz-transform: translate(0%, -50%);
@@ -455,7 +454,7 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 #preview .block .preview-contant .position-center {
-  position: absolute;
+  position: inherit;
   top: 50%;
   left: 10%;
   -webkit-transform: translate(0%, 50%);
