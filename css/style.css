@@ -57,8 +57,12 @@ a:active {
 	Header Start
 --*/
 header {
+<<<<<<< Updated upstream
   background: #fff;
   padding: 20px 0;
+=======
+  padding: 25px 0;
+>>>>>>> Stashed changes
 }
 header .navbar {
   margin-bottom: 0px;
@@ -95,9 +99,9 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #home-slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/slider-bg.png") no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment: relative;
   background-position: 10% 0%;
   padding: 200px 0 280px 0;
   position: relative;
@@ -135,7 +139,8 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #logo-big {
-
+    width: 300px;
+    height: auto;
 }
 
 #blog, #post {
@@ -165,6 +170,11 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 20px;
 }
 
+#cotation {
+  width: 25px;
+  margin-left: 40px
+   
+}
 /*--
 	Feature Start
 --*/
@@ -278,6 +288,16 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 30px;
   display: inline-block;
   border: 0px;
+}
+
+#profile_picture {
+    width: 100px;
+    height: 125px;
+}
+
+#screenshot {
+    width: 365px;
+    height: 300px
 }
 /*--
 	features Start
@@ -556,3 +576,4 @@ video {
 .btn:hover {
   background-color: RoyalBlue;
 }
+
