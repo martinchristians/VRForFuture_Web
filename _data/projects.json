@@ -1,48 +1,40 @@
 [
 {
-    "category": "Menu",
     "img": "img/portfolio/work1.jpg",
     "content": "the environtment"
 },
     
 {
-    "category": "Climbing",
     "img": "img/portfolio/work2.jpg",
     "content": "the first wall"
 },
 
 {
-    "category": "Climbing",
     "img": "img/portfolio/work3.jpg",
     "content": "a waterfall"
 },
     
 {
-    "category": "Climbing",
     "img": "img/portfolio/work6.jpg",
     "content": "the bear boss"
 },
 
 {
-    "category": "Hunting",
     "img": "img/portfolio/work4.jpg",
     "content": "kill wolf"
 },
     
 {
-    "category": "Quest",
     "img": "img/portfolio/work5.jpg",
     "content": "the campfire"
 },
 
 {
-    "category": "Quest",
     "img": "img/portfolio/work6.jpg",
     "content": "the bear boss"
 },
 
 {
-    "category": "Quest",
     "img": "img/portfolio/work1.jpg",
     "content": "the bear boss"
 }
