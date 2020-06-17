@@ -125,16 +125,18 @@ header .navbar-text{
   padding-bottom: 45px;
 }
 #home-slider .block p {
-  font-size: 23px;
+  font-size: 28px;
   line-height: 40px;
   font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: 3px;
-  padding-left: 0;
+  margin-left: 42px;
+  text-align: justify;
 }
 
 #logo-big {
-
+  width: 380px;
+  height: 430px;
 }
 
 #blog, #post {
@@ -288,7 +290,6 @@ header .navbar-text{
 #logo .clients-logo-img {
   padding: 0px 50px;
 }
-
 
 
 #global-header {
