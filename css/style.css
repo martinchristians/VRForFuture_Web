@@ -220,10 +220,10 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #7B7B7B;
 }
 #team .counter-box li {
-  width: 50%;
+  width: 100%;
   float: left;
-  text-align: center;
-  margin: 30px 0 30px;
+  text-align: left;
+  margin: 80px 0 0 125px;
 }
 #team .counter-box li i {
   font-size: 35px;
@@ -405,6 +405,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #preview .block .preview-contant ul li {
   float: left;
   width: 32.22%;
+  height: auto;
   overflow: hidden;
   margin: 6px;
   position: relative;
@@ -529,10 +530,29 @@ footer .footer-manu ul li a:hover {
 /*---------------------------------------------
 					CUSTOM TABLE
 -----------------------------------------------*/
-td {
-    width: 50%;
+
+th {
+    padding-right: 30px
 }
 
 video {
     width: 95%;
+}
+
+.column {
+  float: left;
+  width: 25%;
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.btn:hover {
+  background-color: RoyalBlue;
 }
