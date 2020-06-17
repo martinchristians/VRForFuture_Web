@@ -39,7 +39,7 @@ a:active {
   text-decoration: none !important;
 }
 /* Added for Screenshots */
-.screenshots { 
+.screenshots {
   padding-top: 90px;
   padding-bottom: 90px;
 }
@@ -61,7 +61,7 @@ a:active {
 	Header Start
 --*/
 header {
-  padding: 24px 0;
+  padding: 28px 0;
 }
 header .navbar {
   background: white;
@@ -76,6 +76,14 @@ header .navbar-sticky {
   border: 0px;
   width: 100%;
   padding: 0 15% 0 15%;
+}
+
+header .navbar-text{
+  font-size: 14px;
+  font-style: bold;
+  font-weight: bold;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 /*--
 	Slider Start
