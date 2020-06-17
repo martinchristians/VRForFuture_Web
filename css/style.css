@@ -2,9 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(http://fonts.googleapis.com/css?family=Volkhov:400italic);
 /* var text-decoration */
-/*--
-	Common Css
---*/
+
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -40,6 +38,12 @@ a:focus,
 a:active {
   text-decoration: none !important;
 }
+/* Added for Screenshots */
+.screenshots { 
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
 .section-title {
   margin-bottom: 70px;
 }
