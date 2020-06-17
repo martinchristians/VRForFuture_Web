@@ -84,7 +84,7 @@ px      68    160    252    344    436    528    620    712    */
     padding-left: 0px;
   }
   #preview .block .preview-contant ul li a .img-heading {
-    padding: 5px 0 5px 13px;
+    padding: 5px 0px 5px 0px;
   }
   #preview .block .preview-contant ul li a .img-heading h2 {
     font-size: 20px;
@@ -95,7 +95,7 @@ px      68    160    252    344    436    528    620    712    */
     line-height: 20px;
   }
   #preview .block .preview-contant ul li a .overlay {
-    padding-left: 15px;
+    padding-left: 0px;
   }
   #preview .block .preview-contant ul li a .overlay h2 {
     padding-top: 30px;
