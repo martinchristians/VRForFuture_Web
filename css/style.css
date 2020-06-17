@@ -321,22 +321,22 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 /*--
-	portfolio Start
+	preview Start
 --*/
-#portfolio {
+#preview {
   overflow: hidden;
   padding: 80px 0;
 }
-#portfolio .block .portfolio-menu {
+#preview .block .preview-menu {
   padding-bottom: 30px;
   text-align: center;
 }
-#portfolio .block .portfolio-menu ul {
+#preview .block .preview-menu ul {
   border: 1px solid #999999;
   display: inline-block;
   margin-bottom: 40px;
 }
-#portfolio .block .portfolio-menu ul li {
+#preview .block .preview-menu ul li {
   display: inline-block;
   padding: 0px 25px;
   cursor: pointer;
@@ -347,11 +347,11 @@ font header .navbar-default .navbar-nav li a:hover {
   text-transform: capitalize;
   position: relative;
 }
-#portfolio .block .portfolio-menu ul .active {
+#preview .block .preview-menu ul .active {
   color: #655E7A;
   position: relative;
 }
-#portfolio .block .portfolio-menu ul .active:before {
+#preview .block .preview-menu ul .active:before {
   content: "\f0d7";
   position: absolute;
   font-family: 'FontAwesome';
@@ -370,7 +370,7 @@ font header .navbar-default .navbar-nav li a:hover {
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
-#portfolio .block .portfolio-menu ul li:hover:before {
+#preview .block .preview-menu ul li:hover:before {
   content: "\f0d7";
   position: absolute;
   font-family: 'FontAwesome';
@@ -389,17 +389,17 @@ font header .navbar-default .navbar-nav li a:hover {
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
-#portfolio .block .portfolio-contant ul li {
+#preview .block .preview-contant ul li {
   float: left;
   width: 32.22%;
   overflow: hidden;
   margin: 6px;
   position: relative;
 }
-#portfolio .block .portfolio-contant ul li:hover .overly {
+#preview .block .preview-contant ul li:hover .overly {
   opacity: 1;
 }
-#portfolio .block .portfolio-contant ul li:hover .position-center {
+#preview .block .preview-contant ul li:hover .position-center {
   position: absolute;
   top: 50%;
   -webkit-transform: translate(0%, -50%);
@@ -407,28 +407,28 @@ font header .navbar-default .navbar-nav li a:hover {
   -ms-transform: translate(0%, -50%);
   transform: translate(0%, -50%);
 }
-#portfolio .block .portfolio-contant ul li a {
+#preview .block .preview-contant ul li a {
   display: block;
   color: #fff;
 }
-#portfolio .block .portfolio-contant ul li a h2 {
+#preview .block .preview-contant ul li a h2 {
   font-size: 22px;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
-#portfolio .block .portfolio-contant ul li a p {
+#preview .block .preview-contant ul li a p {
   font-size: 15px;
 }
-#portfolio .block .portfolio-contant ul li a span {
+#preview .block .preview-contant ul li a span {
   font-style: italic;
   font-size: 13px;
   color: #655E7A;
 }
-#portfolio .block .portfolio-contant ul img {
+#preview .block .preview-contant ul img {
   width: 100%;
   height: auto;
 }
-#portfolio .block .portfolio-contant .overly {
+#preview .block .preview-contant .overly {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -441,7 +441,7 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: .3s all;
   text-align: center;
 }
-#portfolio .block .portfolio-contant .position-center {
+#preview .block .preview-contant .position-center {
   position: absolute;
   top: 50%;
   left: 10%;
@@ -453,7 +453,7 @@ font header .navbar-default .navbar-nav li a:hover {
   -o-transition: .5s all;
   transition: .5s all;
 }
-#portfolio .block .mix {
+#preview .block .mix {
   display: none;
 }
 

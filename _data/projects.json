@@ -1,41 +1,41 @@
 [
 {
-    "img": "img/portfolio/work1.jpg",
+    "img": "img/preview/work1.jpg",
     "content": "the environtment"
 },
     
 {
-    "img": "img/portfolio/work2.jpg",
+    "img": "img/preview/work2.jpg",
     "content": "the first wall"
 },
 
 {
-    "img": "img/portfolio/work3.jpg",
+    "img": "img/preview/work3.jpg",
     "content": "a waterfall"
 },
     
 {
-    "img": "img/portfolio/work6.jpg",
+    "img": "img/preview/work6.jpg",
     "content": "the bear boss"
 },
 
 {
-    "img": "img/portfolio/work4.jpg",
+    "img": "img/preview/work4.jpg",
     "content": "kill wolf"
 },
     
 {
-    "img": "img/portfolio/work5.jpg",
+    "img": "img/preview/work5.jpg",
     "content": "the campfire"
 },
 
 {
-    "img": "img/portfolio/work6.jpg",
+    "img": "img/preview/work6.jpg",
     "content": "the bear boss"
 },
 
 {
-    "img": "img/portfolio/work1.jpg",
+    "img": "img/preview/work1.jpg",
     "content": "the bear boss"
 }
 ]
