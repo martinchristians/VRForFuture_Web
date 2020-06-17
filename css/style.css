@@ -61,11 +61,13 @@ a:active {
 	Header Start
 --*/
 header {
-  padding: 28px 0;
+  background: #E6E6E6;
+  padding: 28px;
 }
 header .navbar {
-  background: white;
-  margin-bottom: 0px;
+  background: #E6E6E6;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
 }
 header .navbar-brand {
   padding-top: 5px;
@@ -125,7 +127,7 @@ header .navbar-text{
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   letter-spacing: 3px;
-  padding-left: 80px;
+  padding-left: 0;
 }
 
 #logo-big {
@@ -149,7 +151,7 @@ header .navbar-text{
   padding-top: 20px;
 }
 #about .block img {
-  padding-left: 40px;
+  padding-left: 0px;
   width: 100%;
 }
 #about .section-title {
