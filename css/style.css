@@ -93,6 +93,10 @@ header .navbar-text{
   margin-bottom: auto;
 }
 
+.site-section {
+  padding-top: 80px;
+}
+
 #cotation {
     width:25px;
     margin-left: 20px;
@@ -102,7 +106,6 @@ header .navbar-text{
   padding: 2% 14% 2% 14%;
   background: rgba(0,0,0,0.4);
 }
-
 #home {
   background: url("../img/lowpoly-home.png") no-repeat;
   background-size: cover;
@@ -111,7 +114,6 @@ header .navbar-text{
   padding: 200px 0 200px 0;
   position: relative;
 }
-
 #home:before {
   content: "";
   position: inherit;
@@ -122,12 +124,9 @@ header .navbar-text{
   width: 100%;
   height: 100%;
 }
-
 #home .block {
   width: 100%;
-
 }
-
 #home .block h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
@@ -136,7 +135,6 @@ header .navbar-text{
   letter-spacing: 10px;
   padding-bottom: 45px;
 }
-
 #home .block p {
   color: #ddffff;
   font-size: 30px;
@@ -152,15 +150,10 @@ header .navbar-text{
     padding: 50px 0 40px;
 }
 
-#about {
-  padding: 100px 0;
-}
-
 #about .text p {
   font-size: 13pt;
   text-align: justify;
 }
-
 #about .block h2 {
   padding-top: 35px;
   line-height: 27px;
@@ -185,16 +178,12 @@ header .navbar-text{
   width: 400px;
   height: auto;
 }
-
 #profile_picture {
   width: 150px;
   height: auto;
   padding-right: 20px;
 }
 
-/*--
-	Feature Start
---*/
 #feature {
   background: url("../img/featue-bg.jpg");
   background-position: 50% 94px;
@@ -231,23 +220,17 @@ header .navbar-text{
   color: #fff;
   padding: 10px 20px;
 }
-/*--
-	content Start
---*/
-#team {
-  padding: 100px 0;
+
 }
 #team .block h2 {
   line-height: 27px;
   color: #5C5C5C;
   padding-top: 110px;
 }
-
 #team .block p {
   padding-top: 50px;
   color: #7B7B7B;
 }
-
 #team .counter-box li {
   width: 100%;
   float: left;
@@ -308,16 +291,6 @@ header .navbar-text{
   display: inline-block;
   border: 0px;
 }
-/*--
-	features Start
---*/
-#logo {
-  padding-top: 30px;
-  padding-bottom: 75px;
-}
-#logo .clients-logo-img {
-  padding: 0px 50px;
-}
 
 #global-header {
   background: url("../img/slider-bg2.jpg") no-repeat;
@@ -372,7 +345,6 @@ header .navbar-text{
   display: none;
 }
 
-/*--------- Heading------------*/
 .heading {
   padding-bottom: 60px;
   text-align: center;
@@ -390,11 +362,8 @@ header .navbar-text{
   font-weight: 300;
 }
 
-/*--
-	footer Start
---*/
 footer {
-  background: #F5F5F5;
+  background: #E6E6E6;
   text-align: center;
   padding-top: 48px;
   padding-bottom: 55px;
@@ -407,22 +376,22 @@ footer p {
 footer a {
   color: #595959;
 }
-footer .footer-manu {
+footer .footer-mane {
   padding-bottom: 25px;
 }
-footer .footer-manu ul {
+footer .footer-mane ul {
   margin: 0px;
   padding: 0px;
 }
-footer .footer-manu ul li {
+footer .footer-mane ul li {
   display: inline-block;
   padding: 0px 20px;
 }
-footer .footer-manu ul li a {
+footer .footer-mane ul li a {
   display: inline-block;
   color: #494949;
 }
-footer .footer-manu ul li a:hover {
+footer .footer-mane ul li a:hover {
   color: #000;
 }
 
