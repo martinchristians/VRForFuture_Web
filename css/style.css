@@ -99,15 +99,15 @@ header .navbar-text{
 /*--
 	Slider Start
 --*/
-#home-slider {
-  background: url("../img/home-slider.png") no-repeat;
+#home {
+  background: url("../img/lowpoly-home.png") no-repeat;
   background-size: cover;
   background-attachment: relative;
   background-position: 10% 0%;
   padding: 200px 0 280px 0;
   position: relative;
 }
-#home-slider:before {
+#home:before {
   content: "";
   position: inherit;
   left: 0;
@@ -119,10 +119,10 @@ header .navbar-text{
   background: linear-gradient(to left, #8b86a3, #322e40);
   opacity: 0.8;
 }
-#home-slider .block {
+#home .block {
   color: #E3E3E4;
 }
-#home-slider .block h1 {
+#home .block h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
   font-size: 45px;
@@ -130,7 +130,7 @@ header .navbar-text{
   letter-spacing: 10px;
   padding-bottom: 45px;
 }
-#home-slider .block p {
+#home .block p {
   font-size: 28px;
   line-height: 40px;
   font-family: 'Roboto', sans-serif;
@@ -168,8 +168,9 @@ header .navbar-text{
 }
 
 #logo-big {
-  width: 300px;
+  width: 350px;
   height: auto;
+
 }
 
 #profile_picture {
