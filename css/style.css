@@ -23,6 +23,7 @@ h3 {
   font-size: 28px;
   font-weight: 300;
 }
+
 p {
   font-size: 15px;
   line-height: 28px;
@@ -154,6 +155,12 @@ header .navbar-text{
 #about {
   padding: 100px 0;
 }
+
+#about .text p {
+  font-size: 13pt;
+  text-align: justify;
+}
+
 #about .block h2 {
   padding-top: 35px;
   line-height: 27px;
@@ -235,10 +242,12 @@ header .navbar-text{
   color: #5C5C5C;
   padding-top: 110px;
 }
+
 #team .block p {
   padding-top: 50px;
   color: #7B7B7B;
 }
+
 #team .counter-box li {
   width: 100%;
   float: left;
