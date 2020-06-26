@@ -1,19 +1,13 @@
+All screenshots are taken of our game
+
 favicon.ico - Icon made out of our logo
 
-vrBlock.png - Edited logo which is used in the Navigation
+VRForFuture.png; vrBlock.png - own logo
 
-VRForFuture.png - Our own selfmade Logo
-
-oculus.png - ???
-
-cotation.png - cotation mark provided with the template (C) Themefisher
-
-home-slider.png - Own Image creation which was once used before at the homepage
-
-lowpoly-home.png - own capture of game edited and now used for our homepage
+homeimage.png - own capture of game edited and now used for our homepage
 
 person.png -  Pixabay License: Free for commercial use, No attribution required
 source: https://pixabay.com/vectors/avatar-black-head-monochrome-1299805/
 
-/screenshots
-Level2.png - Screenshot taken of our game in level 2
+virtualreality.png - Freepik License: Free for personal and commercial purpose with attribution.
+https://www.freepik.com/free-vector/isometric-vr-glasses-background_3189033.htm#page=1&query=vr&position=1

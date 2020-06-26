@@ -95,14 +95,14 @@ header .navbar-text{
   background: rgba(0,0,0,0.4);
 }
 #home {
-  background: url("../img/lowpoly-home.png") no-repeat;
+  background: url("../img/homeimage.png") no-repeat;
   background-size: cover;
   background-attachment: relative;
   background-position: 10% 0%;
   padding: 200px 0 200px 0;
   position: relative;
 }
-#home:before {
+#home :before {
   content: "";
   position: inherit;
   left: 0;
@@ -151,15 +151,19 @@ header .navbar-text{
   color: #7B7B7B;
   padding-top: 20px;
 }
-#about .block img {
-  padding-left: 0px;
-  width: 100%;
-}
+
 #about .section-title {
   margin-bottom: 0px;
 }
 #about .section-title p {
   padding-top: 20px;
+}
+
+#about .about-image {
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 780px;
+  height: auto;
 }
 
 #logo-big {
