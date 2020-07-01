@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -19,16 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: VF For Future
-email: Martin.Solihin@Student.HTW-Berlin.de
+email: Sebastian.Puetz@Student.HTW-Berlin.de
 description: "Here comes our Project description"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://vrforfuture.github.io/" # the subpath of your site, e.g. /blog
 url: "http://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  martinchristians
 
 # Build settings
 plugins:
   - jekyll-feed
-  
+
 permalink: none
 comments: true
 defaults:
@@ -38,7 +38,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: "Martin Christian S"
+      author: "Martin Christian S, Sebastians P"
       category: "jekyll"
 
 # Exclude from processing.
@@ -61,4 +61,4 @@ defaults:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-dinky
+theme: default
