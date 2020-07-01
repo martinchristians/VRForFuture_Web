@@ -20,7 +20,7 @@
 
 title: VF For Future
 email: Sebastian.Puetz@Student.HTW-Berlin.de
-description: "Here comes our Project description"
+description: "Welcome to our project VR for Future. Check out our game Hunters Paths"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vrforfuture.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vrforfuture
