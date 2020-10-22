@@ -28,4 +28,3 @@ ACHTUNG: Um das Projekt unter Windows testen zu können, muss zuerst Ruby instal
 - `bundle install` ausführen
 
 Um die Website lokal zu testen, kann nach der Installation `bundle exec jekyll serve` im Terminal ausgeführt werden
- 
