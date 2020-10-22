@@ -1,5 +1,4 @@
 # VR for Future
-![deploy](https://github.com/VRForFuture/vrforfuture.github.io/workflows/deploy/badge.svg)
 
 Webseite der Projektgruppe VR for Furure
 Internationale Medieninformation - HTW Berlin
